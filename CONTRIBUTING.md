@@ -143,9 +143,8 @@ When contributing, keep these principles in mind:
 
 ## Questions?
 
-- 💬 [GitHub Discussions](https://github.com/memorygate/svtd/discussions)
-- 🐛 [GitHub Issues](https://github.com/memorygate/svtd/issues)
-- 🌐 [MemoryGate.io](https://memorygate.io)
+- 🌐 [MemoryGate.io](https://memorygate.io) - Learn more about SVTD and the managed enterprise version
+- For bug reports and feature requests, please open an issue on this repository
 
 ---
 

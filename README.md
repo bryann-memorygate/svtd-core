@@ -3,8 +3,7 @@
 <p align="center">
   <strong>Trust-Weighted Retrieval for RAG Systems</strong><br>
   <a href="https://memorygate.io">MemoryGate.io</a> • 
-  <a href="https://github.com/memorygate/svtd">GitHub</a> • 
-  <a href="https://pypi.org/project/svtd">PyPI</a>
+  <a href="https://github.com/bryann-memorygate/svtd-core">GitHub</a>
 </p>
 
 ---
@@ -181,10 +180,8 @@ SVTD is the open-source core of [MemoryGate.io](https://memorygate.io).
 
 ## Community & Support
 
-- 💬 **Discussions:** [GitHub Discussions](https://github.com/memorygate/svtd/discussions)
-- 🐛 **Issues:** [GitHub Issues](https://github.com/memorygate/svtd/issues)
-- 🐦 **Twitter/X:** [@memorygateio](https://twitter.com/memorygateio)
-- 🌐 **Website:** [memorygate.io](https://memorygate.io)
+- 🌐 **Website:** [memorygate.io](https://memorygate.io) - Learn more about the managed enterprise version
+- 📧 **Contact:** Reach out via [memorygate.io](https://memorygate.io) for support and inquiries
 
 ---
 

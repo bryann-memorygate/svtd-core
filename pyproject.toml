@@ -29,5 +29,5 @@ dev = [
 
 [project.urls]
 "Homepage" = "https://memorygate.io"
-"Source" = "https://github.com/memorygate/svtd"
-"Bug Tracker" = "https://github.com/memorygate/svtd/issues"
+"Source" = "https://github.com/bryann-memorygate/svtd-core"
+"Bug Tracker" = "https://github.com/bryann-memorygate/svtd-core/issues"

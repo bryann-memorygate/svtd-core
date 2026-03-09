@@ -329,4 +329,4 @@ Every trust change is logged:
 
 ---
 
-*For enterprise features (auto-detection, multi-tenancy, analytics), visit [MemoryGate.io](https://memorygate.io)*
+*For enterprise features (auto-detection, multi-tenancy, analytics) and support, visit [MemoryGate.io](https://memorygate.io)*

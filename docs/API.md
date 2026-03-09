@@ -385,4 +385,4 @@ reranked = rerank_results(results, ledger=None)  # No trust weighting applied
 
 ---
 
-*For managed enterprise features, visit [MemoryGate.io](https://memorygate.io)*
+*For managed enterprise features and support, visit [MemoryGate.io](https://memorygate.io)*
