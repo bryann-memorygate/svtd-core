@@ -1,0 +1,46 @@
+[
+  {
+    "memory_id": "flsa_rule_2024_1",
+    "content": "The April 2024 final rule increased the standard salary level and HCE threshold in two phases: Beginning July 1, 2024, the standard salary level is $844 per week (equivalent to $43,888 per year) and the highly compensated employee total annual compensation threshold is $132,964 per year. Beginning January 1, 2025, the standard salary level is $1,128 per week (equivalent to $58,656 per year) and the HCE threshold is $151,164 per year. The rule also provided for future updates every three years.",
+    "metadata": {
+      "source_type": "rule",
+      "date": "2024-04-26",
+      "citation": "FR Doc. 2024-08038",
+      "status": "superseded"
+    },
+    "stale": true
+  },
+  {
+    "memory_id": "flsa_vacatur_1",
+    "content": "On November 15, 2024, the U.S. District Court for the Eastern District of Texas vacated the Department of Labor's 2024 final rule with nationwide effect. The court set aside and vacated the rule; the Department's 2024 increases to the standard salary level ($844/$1,128) and HCE threshold no longer apply. For enforcement, the Department is applying the 2019 rule's minimum salary level of $684 per week and total annual compensation for highly compensated employees of $107,432 per year. The United States has filed a notice of appeal.",
+    "metadata": {
+      "source_type": "court_order",
+      "date": "2024-11-15",
+      "citation": "E.D. Texas (State of Texas v. U.S. DOL), No. 4:24-cv-00499",
+      "status": "controlling"
+    },
+    "stale": false
+  },
+  {
+    "memory_id": "flsa_dol_enforcement_1",
+    "content": "On November 15, 2024, the U.S. District Court for the Eastern District of Texas vacated the Department's 2024 final rule. Consequently, with regard to enforcement, the Department is applying the 2019 rule's minimum salary level of $684 per week and total annual compensation requirement for highly compensated employees of $107,432 per year. Lawsuits regarding the 2024 final rule are currently pending in two other federal district courts, and the United States has filed a notice of appeal from the November 15 decision.",
+    "metadata": {
+      "source_type": "agency_guidance",
+      "date": "2024-11-15",
+      "citation": "DOL WHD",
+      "status": "controlling"
+    },
+    "stale": false
+  },
+  {
+    "memory_id": "flsa_ecfr_1",
+    "content": "29 CFR 541.600 — Amount of salary required. Beginning July 1, 2024, the standard salary level is $844 per week. Beginning January 1, 2025, the standard salary level is $1,128 per week (equivalent to $58,656 per year), with recalculation pursuant to § 541.607(b)(1) on July 1, 2027.",
+    "metadata": {
+      "source_type": "ecfr",
+      "date": "2024-07-01",
+      "citation": "29 CFR 541.600",
+      "status": "stale"
+    },
+    "stale": true
+  }
+]
